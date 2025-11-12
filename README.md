@@ -5,6 +5,12 @@
 This Power BI project visualizes Netflix review data across **100 countries** to uncover patterns in viewer ratings, genres, and sentiment.
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Power%20BI-blue?logo=powerbi&logoColor=white">
+  <img src="https://img.shields.io/badge/Level-Beginner%20-yellow">
+  <img src="https://img.shields.io/badge/Status-Completed%20-brightgreen">
+  <img src="https://img.shields.io/badge/Dashboard-Netflix%20Review-red">
+</p>
 
 ## 📊 Features
 - Global and country-level rating analysis  
